@@ -6,8 +6,8 @@ public class Practice_0610_02 {
 
 		Practice_0610_01 rm= new Practice_0610_01(); 
 		
-		rm.m1=3000;
-		rm.m2=5000;
+		rm.kor=80;
+		rm.eng=75;
 		
 		rm.Market();
 		
